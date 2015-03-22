@@ -1,6 +1,7 @@
 .metadata
 .recommenders
 .settings
+target/
 
 # Windows image file caches
 Thumbs.db
